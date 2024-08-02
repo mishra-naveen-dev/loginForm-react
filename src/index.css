@@ -20,9 +20,9 @@ body {
 }
 .login-container {
   max-width: 410px;
-  margin: 0 auto;
+  margin: 2rem auto; /* Adds 4rem margin to the top and bottom, auto to left and right */
   border-radius: 0.5rem;
-  padding: 2rem 1.5rem;
+  padding: 1rem 1.5rem;
   background: rgba(255, 255, 255, 0.2);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
@@ -94,7 +94,6 @@ body {
   font-size: 1.06rem;
   border-radius: 0.31rem;
   background-color: transparent; /* Set background color to transparent */
-
   border: 1px solid #bfb3f237;
   padding: 0 1.25rem 0 3.12rem;
   transition: 0.2s ease;
@@ -102,7 +101,6 @@ body {
 .login-form .input-wrapper .input-field:focus {
   border-color: #5f41e4;
 }
-
 .login-form .input-wrapper .input-field::placeholder {
   color: #a395e083;
 }
@@ -158,7 +156,6 @@ body {
 .login-container a:hover {
   text-decoration: underline;
 }
-
 .login-form .forgot-pass-link {
   display: block;
   width: fit-content;
