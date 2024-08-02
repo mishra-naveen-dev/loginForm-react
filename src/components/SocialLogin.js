@@ -1,6 +1,8 @@
 import React from 'react';
 import img from '../assets/image/image.png';
 import img1 from '../assets/image/image2.png';
+
+
 const SocialLogin = () => {
     return (
         <div className="social-login">
