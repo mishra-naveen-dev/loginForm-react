@@ -1,25 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import img from './assest/image/image.png'
+import img1 from './assest/image/image.png'
 
-function App() {
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+    <div className='login-container'>
+      <h2 className="form-title">Log in with</h2>
+      <div className="social-login">
+        <button className="social-button">
+          <img src={img} alt="google" className="social-icon" />
+        </button>
+        <button className="social-button">
+          <img src={img1} alt="google" className="social-icon" />
+        </button>
+      </div>
+      <p className="separator"><span>or</span></p>
+      <form action="#" className="login-form">
+        <div className="input-wrapper">
+          <input type="email" placeholder='Email address' className="input-field" required />
+        </div>
+      </form>
 
-export default App;
+    </div>
+  )
+}
+export default App
