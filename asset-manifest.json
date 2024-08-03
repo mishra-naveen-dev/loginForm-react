@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/https://github.com/mishra-naveen-dev/loginForm-react.git/static/css/main.1736f36d.css",
-    "main.js": "/https://github.com/mishra-naveen-dev/loginForm-react.git/static/js/main.8d699c1a.js",
-    "static/js/453.306cd6f5.chunk.js": "/https://github.com/mishra-naveen-dev/loginForm-react.git/static/js/453.306cd6f5.chunk.js",
-    "static/media/image1.png": "/https://github.com/mishra-naveen-dev/loginForm-react.git/static/media/image1.e6aff30986d9c400ad06.png",
-    "static/media/image.png": "/https://github.com/mishra-naveen-dev/loginForm-react.git/static/media/image.d741d671ffd99383193a.png",
-    "index.html": "/https://github.com/mishra-naveen-dev/loginForm-react.git/index.html",
-    "main.1736f36d.css.map": "/https://github.com/mishra-naveen-dev/loginForm-react.git/static/css/main.1736f36d.css.map",
-    "main.8d699c1a.js.map": "/https://github.com/mishra-naveen-dev/loginForm-react.git/static/js/main.8d699c1a.js.map",
-    "453.306cd6f5.chunk.js.map": "/https://github.com/mishra-naveen-dev/loginForm-react.git/static/js/453.306cd6f5.chunk.js.map"
+    "main.css": "/loginForm-react/static/css/main.8e45697c.css",
+    "main.js": "/loginForm-react/static/js/main.fb1dd4bd.js",
+    "static/js/453.306cd6f5.chunk.js": "/loginForm-react/static/js/453.306cd6f5.chunk.js",
+    "static/media/image1.png": "/loginForm-react/static/media/image1.e6aff30986d9c400ad06.png",
+    "static/media/image.png": "/loginForm-react/static/media/image.d741d671ffd99383193a.png",
+    "index.html": "/loginForm-react/index.html",
+    "main.8e45697c.css.map": "/loginForm-react/static/css/main.8e45697c.css.map",
+    "main.fb1dd4bd.js.map": "/loginForm-react/static/js/main.fb1dd4bd.js.map",
+    "453.306cd6f5.chunk.js.map": "/loginForm-react/static/js/453.306cd6f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1736f36d.css",
-    "static/js/main.8d699c1a.js"
+    "static/css/main.8e45697c.css",
+    "static/js/main.fb1dd4bd.js"
   ]
 }
